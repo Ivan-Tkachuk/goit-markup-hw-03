@@ -363,7 +363,7 @@ ul {
 }
 
 .logo-footer {
-    display: block;
+    display: inline-block;
     margin-bottom: 20px;
 
     font-family: Raleway, sans-serif;
